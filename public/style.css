@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#submit{
+    background-color: lightblue;
+    color: black;
+    
+    
+}
+#submit:hover{
+    background-color: rgb(173, 228, 173);
+    color: black;
+}
+#temp{
+    background: lightblue;
+    color: black;
+    
+}
+#humidity{
+    background: lightblue;
+    color: black;
+    
+}
+#wind{
+    background: lightblue;
+    color: black;
+    
+}
+body{
+    background: url(../public/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+#cityName{
+    font-family: sans-serif;
+    
+    
+    color: darkgreen;
+
+}
